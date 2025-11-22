@@ -443,11 +443,11 @@ Here are your two brutally crisp, ready-to-drop visuals — no further help need
 
 1. The 2×2 matrix  
 
-![Why the MBA Sees a Bubble and the Builder Sees Genesis](physics/mba-1.jpg)
+![Why the MBA Sees a Bubble and the Builder Sees Genesis](b-school/mba-1.jpg)
 
 2. The minimal pentadic stack (monochrome + electric-blue physics layers, red accent on the second derivative — the “exponential surprise” term)
 
-![Pentadic Stack: Platform → API → Hardware → Intelligence → Value](physics/mba-2.jpg)
+![Pentadic Stack: Platform → API → Hardware → Intelligence → Value](b-school/mba-2.jpg)
 
 Caption for both (already baked into the images):
 
