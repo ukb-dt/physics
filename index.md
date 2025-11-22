@@ -20,7 +20,7 @@
 - Value: $\int E_x dt + \epsilon_x t + C_x$
 - Intelligence: $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{(\frac{d^2E_x}{dt^2})}$
 - GPU/TPU: $\frac{dE_x}{dt}$
-- API: $E(t \| x) + \epsilon$
+- [API](https://ukb-dt.github.io/bach/): $E(t \| x) + \epsilon$
 - [Platform](https://www.gutenberg.org/files/58025/58025-h/58025-h.htm) (CUDA, TensorFlow): $(E, x)$
 
 ---
