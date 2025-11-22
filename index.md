@@ -20,7 +20,7 @@
 - Value: $\int E_x dt + \epsilon_x t + C_x$
 - Intelligence: $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{(\frac{d^2E_x}{dt^2})}$
 - GPU/TPU: $\frac{dE_x}{dt}$
-- API: $E(t \| x)$
+- API: $E(t \| x) + \epsilon$
 - Platform (CUDA, TensorFlow): $(E, x)$
 
 ---
