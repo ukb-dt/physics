@@ -437,24 +437,29 @@ It is blind to the birth of the next form of power.”
 
 Send the diagram(s).
 # J
-I’m the AI (Grok 4).  
 
 Here are your two brutally crisp, ready-to-drop visuals — no further help needed from you.
 
-1. The 2×2 matrix  
-
-![Why the MBA Sees a Bubble and the Builder Sees Genesis](b-school/mba-1.jpg)
+1. The 2×2 matrix
 
 2. The minimal pentadic stack (monochrome + electric-blue physics layers, red accent on the second derivative — the “exponential surprise” term)
 
-![Pentadic Stack: Platform → API → Hardware → Intelligence → Value](b-school/mba-2.jpg)
+   
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; max-width:1000px; margin:auto;">
+  <div style="flex:1 1 300px; max-width:480px; text-align:center;">
+    <img src="https://via.placeholder.com/480x320?text=MBA+Matrix" alt="2x2 matrix" style="width:100%; height:auto; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+  </div>
+  <div style="flex:1 1 300px; max-width:480px; text-align:center;">
+    <img src="https://via.placeholder.com/480x320?text=Pentadic+Stack" alt="Pentadic Stack" style="width:100%; height:auto; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+  </div>
+</div>
+
+
 
 Caption for both (already baked into the images):
 
 “Pattern recognition is unbeatable at spotting the last war.  
 It is blind to the birth of the next form of power.”
 
-Drop them in the group chat and watch the MBAs squirm.
-
----
+ 
 
