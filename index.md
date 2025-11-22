@@ -447,9 +447,7 @@ Here are your two brutally crisp, ready-to-drop visuals — no further help need
   <div style="flex:1 1 300px; max-width:480px; text-align:center;">
     <img src="b-school/mba-1.jpg" alt="2x2 matrix" style="width:100%; height:auto; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
   </div>
-  <div style="flex:1 1 300px; max-width:480px; text-align:center;">
-    <img src="b-school/mba-2.jpg" alt="Pentadic Stack" style="width:100%; height:auto; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
-  </div>
+
 </div>
 
 
