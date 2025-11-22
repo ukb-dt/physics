@@ -21,7 +21,7 @@
 - Intelligence: $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{(\frac{d^2E_x}{dt^2})}$
 - GPU/TPU: $\frac{dE_x}{dt}$
 - API: $E(t \| x) + \epsilon$
-- Platform (CUDA, TensorFlow): $(E, x)$
+- [Platform](https://www.gutenberg.org/files/58025/58025-h/58025-h.htm) (CUDA, TensorFlow): $(E, x)$
 
 ---
 
