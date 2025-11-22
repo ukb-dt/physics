@@ -26,7 +26,7 @@
 ---
 
 Por Qué?
-Entropy ↔ Negentropy ↔ Extropy
+Entropy ↔ [Negentropy](https://ukb-dt.github.io/intention/) ↔ Extropy
 
 Cómo?
 Sovereign ↔ Place ↔ Time
