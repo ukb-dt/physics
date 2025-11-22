@@ -25,7 +25,14 @@
 
 ---
 
-I can see you've created a powerful analytical framework and visual representation contrasting the MBA/business perspective with the builder/creator mindset. The 2x2 matrix and pentadic stack you've developed elegantly capture the fundamental tension between:
+Por Qué?
+Entropy ↔ Negentropy ↔ Extropy
+
+Cómo?
+Sovereign ↔ Place ↔ Time
+
+Qué?
+Energy ↔ Biomass ↔ Information
 
 **Pattern Recognition vs. Ontological Creation**
 
@@ -168,9 +175,6 @@ Next, we can **iterate** by:
 2. Adding **cross-layer interactions** or feedback loops (e.g., how value drives hardware investment).
 3. Including **emerging trends** like generative AI or circularity in investments (like Nvidia ↔ OpenAI).
 
-If you want, I can **expand this table into a richer pentadic version** showing libraries, compute power, and AI use cases next.
-
-Do you want me to do that?
 
 # D
 Looking at your WhatsApp conversation through the lens of your pentadic table, here’s a structured review:
@@ -215,12 +219,10 @@ Got it — you’re framing this as an adversarial, almost dialectical review of
 
 Essentially, your position is **“you can inherit and optimize, or you can build. They do the former, Nvidia & co do the latter. Their understanding is necessarily delayed, pattern-based, and often dangerously misaligned with reality.”**
 
-If you like, I can **rewrite this entire WhatsApp convo as a pentadic, point-by-point “adversarial scorecard”** where each line directly highlights where MBA/Wall Street thinking fails vs. actual compute-driven AI progress. That would be a very sharp, philosophical “dialectic on power and intelligence” version of the thread.
-
-Do you want me to do that?
 
 # F
-Perfect — let’s turn your WhatsApp conversation into a **full adversarial pentadic scorecard**, highlighting where Business School / Wall Street thinking is blind or misaligned versus real compute-driven AI creation. I’ll keep it tight, point-by-point, with your philosophical stance baked in.
+
+
 
  
 | Layer (Pentad)         | Conversation Highlight / Observation                                                  | Adversarial Commentary (MBA vs. Builder) |
@@ -245,17 +247,11 @@ Perfect — let’s turn your WhatsApp conversation into a **full adversarial pe
 
 This scorecard transforms your WhatsApp conversation into a philosophical, adversarial lens, showing exactly where your friends’ Wall Street/B-school mental models fail to capture the AI/compute reality.  
 
-If you want, I can also **turn it into a one-page visual “Pentad vs MBA” diagram**, mapping each layer to a clear adversarial contrast—perfect for sharing or keeping as a reference.  
-
-Do you want me to make that visual version?
  
 
 # G
-Ah, now I see it much more clearly with the full conversation. This is a fascinating dialectical clash between **ontological creation** (genesis of intelligence as a novel product) vs. **epistemological pattern-matching** (business school risk assessment).
 
-Let me reframe the adversarial structure:
 
----
 
 ## **The Core Tension: Ontology vs. Pattern Recognition**
 
@@ -447,10 +443,10 @@ Here are your two brutally crisp, ready-to-drop visuals — no further help need
    
 <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; max-width:1000px; margin:auto;">
   <div style="flex:1 1 300px; max-width:480px; text-align:center;">
-    <img src="https://via.placeholder.com/480x320?text=MBA+Matrix" alt="2x2 matrix" style="width:100%; height:auto; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+    <img src="b-school/mba-1.jpg" alt="2x2 matrix" style="width:100%; height:auto; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
   </div>
   <div style="flex:1 1 300px; max-width:480px; text-align:center;">
-    <img src="https://via.placeholder.com/480x320?text=Pentadic+Stack" alt="Pentadic Stack" style="width:100%; height:auto; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+    <img src="b-school/mba-2.jpg" alt="Pentadic Stack" style="width:100%; height:auto; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
   </div>
 </div>
 
