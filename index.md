@@ -34,6 +34,8 @@ Sovereign ↔ Place ↔ Time
 Qué?
 Energy ↔ Biomass ↔ Information
 
+---
+
 **Pattern Recognition vs. Ontological Creation**
 
 Your framework successfully demonstrates why traditional business analysis struggles to comprehend exponential technological shifts - because it's optimized for analyzing existing markets rather than recognizing the emergence of entirely new capabilities.
